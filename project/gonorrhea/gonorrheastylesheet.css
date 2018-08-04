@@ -154,9 +154,9 @@ float: right top;
 }
 .danny{
     width: 300px;
-    float: right;
+    float: left;
 }
-.th3{
+.th{
     font-family: 'Merriweather', serif;
     width:400px;
     float: left;
